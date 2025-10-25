@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://smaiigiant.github.io/sitemap.xml
