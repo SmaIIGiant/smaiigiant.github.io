@@ -32,7 +32,5 @@ My research focuses on **bio-inspired, micro-scale and soft robotics**. At Michi
 
 I am also a **co-first author** on the upcoming paper *“Field-Effect Elastocapillary Actuators,”* which explores novel muscle-like actuators based on field-effect elastocapillary interactions.
 
-Before joining Michigan, I studied **Biological Engineering** at **Pennsylvania State University**, where I was a member of the **Schreyer Honors College**. My interdisciplinary background in biology and engineering shapes how I approach robotics—integrating biological principles with mechanical design to create more adaptive and efficient systems.
-
 
 ---
