@@ -34,7 +34,4 @@ At Michigan, I have worked on several projects, including the development of **a
 I am also a **co-first author** on the upcoming paper *“Field-Effect Elastocapillary Actuators,”* which explores novel muscle-like actuators based on field-effect elastocapillary interactions.
 
 Before joining Michigan, I studied **Biological Engineering** at **Pennsylvania State University**, where I was a member of the **Schreyer Honors College**. My interdisciplinary background in biology and engineering shapes how I approach robotics—integrating biological principles with mechanical design to create more adaptive and efficient systems.
-
-Looking ahead, I aim to pursue a **Ph.D. in Soft and Bio-Inspired Robotics**, focusing on **micro-robotic design**, **fluid–structure interaction**, and **adaptive materials** that bridge the boundary between living and engineered systems.
-
 ---
