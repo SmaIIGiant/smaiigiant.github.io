@@ -2,7 +2,7 @@
 layout: about
 title: Geng Yihao
 permalink: /
-subtitle: <a href='https://umich.edu/'>Research Assistant, Zoetic Robotics Lab</a> · University of Michigan  
+subtitle: Undergraduate Research Assistant, <a href='https://www.zoeticrobotics.com/'>Zoetic Robotics Lab</a> · <a href='https://umich.edu/'>University of Michigan</a>  
 Email: <a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a>
 
 profile:
