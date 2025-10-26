@@ -2,30 +2,43 @@
 layout: about
 title: Geng Yihao
 permalink: /
-subtitle: <a href='https://umich.edu/'> University of Michigan, Bachelor of Science Engineering in Computer Science</a>. Email: yhgeng@umich.edu
+subtitle: <a href='https://umich.edu/'>Research Assistant, Zoetic Robotics Lab</a> · University of Michigan  
+Email: <a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a>
 
 profile:
   align: right
   image: pic_psed.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-  
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>Zoetic Robotics Lab, College of Engineering<br>
+    University of Michigan, Ann Arbor</p>
+    <p><a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a></p>
+
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **Research Assistant** at the [Zoetic Robotics Lab](https://www.zoeticrobotics.com/) in the **University of Michigan**, supervised by **Dr. Cameron Aubin**.  
+My research focuses on **bio-inspired and micro-scale robotics**, with a particular interest in designing robots capable of adaptive and multimodal locomotion across challenging environments such as sand and water.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Michigan, I have worked on several projects, including the development of **amphibious screw-propelled micro-robots** and **suction cups with active delamination and energy-harvesting mechanisms**. Our work on suction cup control, *“Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid,”* was recognized as a **Best Student Paper Finalist** and received the **Best Paper Award in Benchmarking and Reproducibility** at the **2025 IEEE International Conference on Soft Robotics (RoboSoft)**.
+
+I am also a **co-first author** on the upcoming paper *“Field-Effect Elastocapillary Actuators,”* which explores novel muscle-like actuators based on field-effect elastocapillary interactions. Beyond research, I enjoy building lab infrastructure, designing testing systems, and mentoring new lab members in fabrication and experimental workflows.
+
+Before joining Michigan, I studied **Biological Engineering** at **Pennsylvania State University**, where I was a member of the **Schreyer Honors College**. My interdisciplinary background in biology and engineering shapes how I approach robotics—integrating biological principles with mechanical design to create more adaptive and efficient systems.
+
+Looking ahead, I aim to pursue a **Ph.D. in Soft and Bio-Inspired Robotics**, focusing on **micro-robotic design**, **fluid–structure interaction**, and **adaptive materials** that bridge the boundary between living and engineered systems.
+
+---
