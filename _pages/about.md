@@ -2,7 +2,7 @@
 layout: about
 title: Geng Yihao
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://umich.edu/'> University of Michigan, Bachelor of Science Engineering in Computer Science</a>. Email: yhgeng@umich.edu
 
 profile:
   align: right
