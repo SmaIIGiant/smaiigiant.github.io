@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yihao Geng
+title: Geng Yihao
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
