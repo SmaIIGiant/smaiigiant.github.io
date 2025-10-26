@@ -26,7 +26,7 @@ latest_posts:
 
 ### Biography
 
-I recently graduated with a **B.S.E in Computer Science** from the **University of Michigan**, where I now work as an **Undergraduate Research Assistant** at the [Zoetic Robotics Lab](https://www.zoeticrobotics.com/), supervised by **Dr. Cameron Aubin**. 
+I recently graduated with a **B.S.E in Computer Science** from the **University of Michigan**, where I now work as an **Undergraduate Research Assistant** at the **Zoetic Robotics Lab**(https://www.zoeticrobotics.com/), supervised by **Dr. Cameron Aubin**. 
 
 My research focuses on **bio-inspired, micro-scale and soft robotics**. 
 
