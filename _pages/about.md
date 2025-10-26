@@ -30,25 +30,121 @@ I recently graduated with a **B.S.E in Computer Science** from the **University 
 
 My research focuses on **bio-inspired, micro-scale and soft robotics**. 
 
+<<<<<<< HEAD
 At Michigan, I have worked on several projects, including the development of **amphibious screw-propelled micro-robots** and **suction cups with active delamination and energy-harvesting mechanisms**. Our work on suction cup control, ***“Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid,”*** was recognized as a **Best Student Paper Finalist** and received the **Best Paper Award in Benchmarking and Reproducibility** at the **2025 IEEE International Conference on Soft Robotics (RoboSoft)**.
+=======
+At Michigan, I have worked on several projects, including the development of [**amphibious screw-propelled micro-robots**](./#amphibious-robot) and **suction cups with active delamination and energy-harvesting mechanisms**. Our work on suction cup control, [***“Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid,”***](./#release-chamber) was recognized as a **Best Student Paper Finalist** and received the **Best Paper Award in Benchmarking and Reproducibility** at the **2025 IEEE International Conference on Soft Robotics (RoboSoft)**.
+>>>>>>> 94b91da (update)
 
 I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastocapillary Actuators,”*** which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
 
 
----
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
 <div align="center" markdown="1">
 
-### **Projects**
+<h3 style="font-weight:700; font-size:1.75rem; text-align:center; margin-bottom:25px;">Projects</h3>
 
-#### **Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**
+
+####  <a id="release-chamber"></a>[**Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**](https://ieeexplore.ieee.org/document/11020908)
+
+##### **X. Bu, Y. Geng, S. Yin, L. Luo, C. A. Aubin and T. Y. Moore**
 
 <img src="/assets/img/figure1.webp"
      alt="Suction Cup Project"
-     style="width:100%; display:block; margin:0 auto; border-radius:8px;">
+     style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
 
 <img src="/assets/img/fluid_in.gif"
      alt="Suction Cup Demonstration"
-     style="width:100%; display:block; margin:0 auto; border-radius:8px;">
+     style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+
+##### [**Learn More**](https://www.embirlab.com/suctionrelease)
+
+
+
+
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
+
+#### <a id="amphibious-robot"></a>[**Amphibious Screw-Propelled Micro Robot**](https://your-paper-or-project-link.com)
+
+
+<img src="/assets/img/amphibious_robot.webp"
+     alt="Amphibious Robot Project"
+     style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+
+<img src="/assets/img/robot_motion.gif"
+     alt="Amphibious Robot Demonstration"
+     style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+
+
+
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
+
+#### Capstone Project: **Ecology Education Enhanced**
+
+##### **Educational Virtual Reality Program**
+
+
+<div style="
+  position:relative;
+  width:100%;
+  max-width:100%;   /* make it span same width as other sections */
+  margin:20px auto;">
+  
+  <video
+    id="eeeVideo"
+    autoplay
+    muted
+    loop
+    playsinline
+    style="
+      width:100%;
+      height:auto;
+      display:block;
+      margin:0 auto;
+      border:2px solid #000;
+      border-radius:8px;
+      background-color:#000;">
+    <source src="https://d3qrnjr4uo2u6l.cloudfront.net/videos/market.mp4" type="video/mp4">
+  </video>
+
+  <!-- Unmute button -->
+  <button
+    id="unmuteBtn"
+    style="
+      position:absolute;
+      bottom:20px;
+      right:25px;
+      background-color:rgba(0,0,0,0.65);
+      color:white;
+      border:none;
+      border-radius:6px;
+      padding:8px 14px;
+      cursor:pointer;
+      font-weight:600;
+      font-size:0.9rem;
+      transition:all 0.3s ease;">
+    🔈 Unmute
+  </button>
+</div>
+
+<script>
+  const video = document.getElementById('eeeVideo');
+  const btn = document.getElementById('unmuteBtn');
+
+  btn.addEventListener('click', () => {
+    if (video.muted) {
+      video.muted = false;
+      btn.textContent = '🔇 Mute';
+    } else {
+      video.muted = true;
+      btn.textContent = '🔈 Unmute';
+    }
+  });
+</script>
+
+
+##### [**Learn More**](https://d3qrnjr4uo2u6l.cloudfront.net/)
+
 
 </div>
