@@ -37,9 +37,18 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 
 ---
 
+<div align="center" markdown="1">
 
 ### **Projects**
 
 #### **Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**
-<img src="/assets/img/figure1.webp" width="600">
 
+<img src="/assets/img/figure1.webp"
+     alt="Suction Cup Project"
+     style="width:100%; display:block; margin:0 auto; border-radius:8px;">
+
+<img src="/assets/img/fluid_in.gif"
+     alt="Suction Cup Demonstration"
+     style="width:100%; display:block; margin:0 auto; border-radius:8px;">
+
+</div>
