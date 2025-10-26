@@ -10,10 +10,6 @@ profile:
   image: pic_psed.png
   image_circular: false
   more_info: >
-    <p>Zoetic Robotics Lab, College of Engineering<br>
-    University of Michigan, Ann Arbor</p>
-    <p><a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a></p>
-
 selected_papers: false
 social: true
 
