@@ -93,6 +93,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
     loop
     playsinline
     controls
+    poster="/assets/img/cover.png"
     style="
       width:100%;
       height:auto;
