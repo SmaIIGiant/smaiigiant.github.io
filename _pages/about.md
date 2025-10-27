@@ -84,7 +84,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 <div style="
   position:relative;
   width:100%;
-  max-width:100%;   /* make it span same width as other sections */
+  max-width:100%;
   margin:20px auto;">
   
   <video
@@ -92,6 +92,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
     muted
     loop
     playsinline
+    controls
     style="
       width:100%;
       height:auto;
