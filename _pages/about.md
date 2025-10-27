@@ -89,7 +89,6 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
   
   <video
     id="eeeVideo"
-    autoplay
     muted
     loop
     playsinline
