@@ -61,7 +61,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
-#### <a id="amphibious-robot"></a>[**Amphibious Screw-Propelled Micro Robot**](https://your-paper-or-project-link.com)
+#### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
 
 
 <img src="/assets/img/amphibious.gif"
