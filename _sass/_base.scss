@@ -1464,3 +1464,7 @@ footer.sticky-bottom .container {
   color: var(--global-theme-color);  /* use your site’s accent color */
   text-decoration: underline;        /* same hover effect as other links */
 }
+
+:target {
+  scroll-margin-top: 80px; /* adjust this value to match your navbar height */
+}
