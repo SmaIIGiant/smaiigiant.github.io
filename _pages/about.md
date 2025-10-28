@@ -67,7 +67,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 #### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
 
 
-<img src="/assets/img/amphibious.gif"a
+<img src="/assets/img/amphibious.gif"
      alt="Amphibious Robot Demonstration"
      style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
 
