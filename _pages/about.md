@@ -40,7 +40,7 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
       Relevant Courses:
     </a>
   </strong>
-  Intro to Machine Learning, Computer Vision, Information Retrieval & Web Search, Intro to Computer Security, Introduction to Cryptography, Extended Reality for Social Impact, Sensors & Signals
+  Intro to Machine Learning, Computer Vision, Information Retrieval & Web Search, Intro to Computer Security, Intro to Cryptography, Extended Reality for Social Impact, Sensors & Signals
 </p>
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
@@ -65,7 +65,9 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
      alt="Suction Cup Demonstration"
      style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
 
-##### [**Learn More**](https://www.embirlab.com/suctionrelease)
+<p style="text-align:right; margin-top:10px;">
+  <a href="https://www.embirlab.com/suctionrelease"><strong>Learn More</strong></a>
+</p>
 
 
 
@@ -147,8 +149,9 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
   });
 </script>
 
-
-##### [**Learn More**](https://d3qrnjr4uo2u6l.cloudfront.net/)
+<p style="text-align:right; margin-top:10px;">
+  <a href="https://d3qrnjr4uo2u6l.cloudfront.net/"><strong>Learn More</strong></a>
+</p>
 
 
 </div>
