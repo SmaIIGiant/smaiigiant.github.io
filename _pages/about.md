@@ -45,6 +45,9 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 ####  <a id="release-chamber"></a>[**Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**](https://ieeexplore.ieee.org/document/11020908)
 
 ##### **X. Bu, Y. Geng, S. Yin, L. Luo, C. A. Aubin and T. Y. Moore**
+###### **RoboSoft 2025** 
+###### **Best Student Paper Finalist** 
+###### **Best Paper Award for Benchmarking and Reproducibility**
 
 <img src="/assets/img/figure1.webp"
      alt="Suction Cup Project"
