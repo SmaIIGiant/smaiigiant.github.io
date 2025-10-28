@@ -1448,4 +1448,19 @@ footer.sticky-bottom .container {
   color: #f5f5f5 !important;
 }
 
+.bio-note{
+  font-size: 0.8rem;                /* smaller than body */
+  color: var(--global-text-color-light);
+  margin-top: .8rem;
+}
 
+.bio-link {
+  color: inherit;               /* match surrounding text */
+  text-decoration: none;        /* no underline by default */
+  transition: color 0.2s ease;  /* smooth transition */
+}
+
+.bio-link:hover {
+  color: var(--global-theme-color);  /* use your site’s accent color */
+  text-decoration: underline;        /* same hover effect as other links */
+}

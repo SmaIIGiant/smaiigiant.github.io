@@ -34,6 +34,14 @@ At Michigan, I have worked on several projects, including the development of [**
 
 I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastocapillary Actuators,”*** which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
 
+<p class="bio-note">
+  <strong>
+    <a href="https://bulletin.engin.umich.edu/courses/eecs/" target="_blank">
+      Relevant Courses:
+    </a>
+  </strong>
+  Intro to Machine Learning, Computer Vision, Information Retrieval & Web Search, Intro to Computer Security, Introduction to Cryptography, Extended Reality for Social Impact, Sensors & Signals
+</p>
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
