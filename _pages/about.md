@@ -32,7 +32,7 @@ My research focuses on **bio-inspired, micro-scale and soft robotics**.
 
 At Michigan, I have worked on several projects, including the development of [**amphibious screw-propelled micro-robots**](./#amphibious-robot) and **suction cups with active delamination and energy-harvesting mechanisms**. Our work on suction cup control, [***“Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid,”***](./#release-chamber) was recognized as a **Best Student Paper Finalist** and received the **Best Paper Award in Benchmarking and Reproducibility** at the **2025 IEEE International Conference on Soft Robotics (RoboSoft)**.
 
-I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastocapillary Actuators,”*** which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
+I am also a **co-first author** on the upcoming paper [***“Field-Effect Elastocapillary Actuators,”***](./#liquid_mdetal_actuator) which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
 
 <p class="bio-note">
   <strong>
@@ -74,7 +74,22 @@ I am also a **co-first author** on the upcoming paper ***“Field-Effect Elastoc
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
+####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
+
+##### **Publication in Preparation**
+
+
+<video autoplay loop muted playsinline
+       style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+  <source src="/assets/video/dragonfly.mp4" type="video/mp4">
+</video>
+
+
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
+
 #### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
+
+##### **Publication in Preparation**
 
 
 <img src="/assets/img/amphibious.gif"
