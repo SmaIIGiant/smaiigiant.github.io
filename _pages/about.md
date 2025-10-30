@@ -62,7 +62,6 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 
 
-
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
 ####  <a id="release-chamber"></a>[**Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**](https://ieeexplore.ieee.org/document/11020908)
