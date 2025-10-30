@@ -50,6 +50,21 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 <h3 style="font-weight:700; font-size:1.75rem; text-align:center; margin-bottom:25px;">Projects</h3>
 
 
+####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
+
+##### **Publication in Preparation**
+
+
+<video autoplay loop muted playsinline
+       style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
+  <source src="/assets/video/dragonfly.mp4" type="video/mp4">
+</video>
+
+
+
+
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
+
 ####  <a id="release-chamber"></a>[**Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**](https://ieeexplore.ieee.org/document/11020908)
 
 ##### **X. Bu, Y. Geng, S. Yin, L. Luo, C. A. Aubin and T. Y. Moore**
@@ -68,21 +83,6 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 <p style="text-align:right; margin-top:10px;">
   <a href="https://www.embirlab.com/suctionrelease"><strong>Learn More</strong></a>
 </p>
-
-
-
-
-<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
-
-####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
-
-##### **Publication in Preparation**
-
-
-<video autoplay loop muted playsinline
-       style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
-  <source src="/assets/video/dragonfly.mp4" type="video/mp4">
-</video>
 
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
