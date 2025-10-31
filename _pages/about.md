@@ -52,6 +52,10 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
 
+##### **J. Liao*, X. Bao*, Y. Geng* , M. S. C. Freitas, S. W. Lee, Z. Bai, J. Zhang, J. Liao, J. Zheng, A. Shariff, M. Yunusa, M.Tavakoli, M. Mastrangeli, C. Aubin, C. Majidi, and M. Sitti**
+##### **(* Contributed Equally)**
+
+
 ##### **Publication in Preparation**
 
 
