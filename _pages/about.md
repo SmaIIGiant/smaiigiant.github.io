@@ -52,7 +52,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
 
-##### **J. Liao\*, X. Bao\*, Y. Geng\* , M. S. C. Freitas, S. W. Lee, Z. Bai, J. Zhang, J. Liao, J. Zheng, A. Shariff, M. Yunusa, M.Tavakoli, M. Mastrangeli, C. Aubin, C. Majidi, and M. Sitti**
+##### **J. Liao\*, X. Bao\*, **Y. Geng\*** , M. S. C. Freitas, S. W. Lee, Z. Bai, J. Zhang, J. Liao, J. Zheng, A. Shariff, M. Yunusa, M.Tavakoli, M. Mastrangeli, C. Aubin, C. Majidi, and M. Sitti**
 ##### **(* Contributed Equally)**
 
 
@@ -70,7 +70,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ####  <a id="release-chamber"></a>[**Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid**](https://ieeexplore.ieee.org/document/11020908)
 
-##### **X. Bu, Y. Geng, S. Yin, L. Luo, C. A. Aubin and T. Y. Moore**
+##### **X. Bu, **Y. Geng**, S. Yin, L. Luo, C. A. Aubin and T. Y. Moore**
 ###### **RoboSoft 2025** 
 ###### **Best Student Paper Finalist** 
 ###### **Best Paper Award for Benchmarking and Reproducibility**
@@ -92,7 +92,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 #### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
 
-##### A. Wertz, Y. Geng, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin, "From Sand to Surf: Amphibious Microrobots demonstrate Environmental Intelligence," (in preparation)
+##### A. Wertz, **Y. Geng**, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin, "From Sand to Surf: Amphibious Microrobots demonstrate Environmental Intelligence," (in preparation)
 
 ##### **Publication in Preparation**
 
