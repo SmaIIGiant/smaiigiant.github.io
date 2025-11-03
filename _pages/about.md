@@ -90,9 +90,9 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
 
-#### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
+#### <a id="amphibious-robot"></a>**From Sand to Surf: Amphibious Microrobots demonstrate Environmental Intelligence**
 
-##### A. Wertz, **Y. Geng**, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin, "From Sand to Surf: Amphibious Microrobots demonstrate Environmental Intelligence," (in preparation)
+##### **A. Wertz, **Y. Geng**, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin**
 
 ##### **Publication in Preparation**
 
