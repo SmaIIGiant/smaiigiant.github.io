@@ -52,7 +52,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ####  <a id="liquid_mdetal_actuator"></a>**Field-Effect Elastocapillary Actuators**
 
-##### **J. Liao*, X. Bao*, Y. Geng* , M. S. C. Freitas, S. W. Lee, Z. Bai, J. Zhang, J. Liao, J. Zheng, A. Shariff, M. Yunusa, M.Tavakoli, M. Mastrangeli, C. Aubin, C. Majidi, and M. Sitti**
+##### **J. Liao\*, X. Bao\*, Y. Geng\* , M. S. C. Freitas, S. W. Lee, Z. Bai, J. Zhang, J. Liao, J. Zheng, A. Shariff, M. Yunusa, M.Tavakoli, M. Mastrangeli, C. Aubin, C. Majidi, and M. Sitti**
 ##### **(* Contributed Equally)**
 
 
@@ -92,7 +92,10 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 #### <a id="amphibious-robot"></a>**Amphibious Screw-Propelled Micro Robot**
 
+##### A. Wertz, Y. Geng, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin, "From Sand to Surf: Amphibious Microrobots demonstrate Environmental Intelligence," (in preparation)
+
 ##### **Publication in Preparation**
+
 
 <!--
 <img src="/assets/img/amphibious.gif"
