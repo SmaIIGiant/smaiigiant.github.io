@@ -40,7 +40,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
       Relevant Courses:
     </a>
   </strong>
-  Intro to Machine Learning, Computer Vision, Information Retrieval & Web Search, Intro to Computer Security, Intro to Cryptography, Extended Reality for Social Impact, Sensors & Signals
+  Intro to Machine Learning, Computer Vision, Information Retrieval & Web Search, Intro to Computer Security, Intro to Cryptography, Extended Reality for Social Impact, Sensors & Signals, Robotic Systems Laboratory, Math for Robotics
 </p>
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
