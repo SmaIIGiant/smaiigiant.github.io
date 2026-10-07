@@ -34,6 +34,8 @@ At Michigan, I have worked on several projects, including the development of [**
 
 I am also a **co-first author** on the upcoming paper [***“Field-Effect Elastocapillary Actuators,”***](./#liquid_mdetal_actuator) which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
 
+<hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
+
 ### **Awards & Honors**
 
 - **First-Year Fellowship**, Robotics Department, University of Michigan.
