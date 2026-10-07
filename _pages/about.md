@@ -2,7 +2,7 @@
 layout: about
 title: Geng Yihao
 permalink: /
-subtitle: Undergraduate Research Assistant, <a href='https://www.zoeticrobotics.com/'>Zoetic Robotics Lab</a> · <a href='https://umich.edu/'>University of Michigan</a>  
+subtitle: Ph.D. Student, <a href='https://www.zoeticrobotics.com/'>Zoetic Robotics Lab</a> · <a href='https://umich.edu/'>University of Michigan</a>  
 Email: <a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a>
 
 profile:
@@ -26,7 +26,7 @@ latest_posts:
 
 ### **Biography**
 
-I recently graduated with a **B.S.E in Computer Science** from the **University of Michigan**, where I now work as an **Undergraduate Research Assistant** at the **Zoetic Robotics Lab**, supervised by **Dr. Cameron Aubin**. 
+I recently graduated with a **B.S.E in Computer Science** from the **University of Michigan**, where I now a **Ph.D. Student** at the **Zoetic Robotics Lab**, supervised by **Dr. Cameron Aubin**. 
 
 My research focuses on **bio-inspired, micro-scale and soft robotics**. 
 
