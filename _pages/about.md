@@ -97,11 +97,11 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 ##### **Publication in Preparation, Tentative Authorship**
 
 
-<!--
+
 <img src="/assets/img/amphibious.gif"
      alt="Amphibious Robot Demonstration"
      style="width:100%; display:block; margin:0 auto; border:2px solid #000; border-radius:8px;">
-!-->
+
 
 
 <hr style="height:3px; background-color:#000; border:none; margin:2rem 0;">
