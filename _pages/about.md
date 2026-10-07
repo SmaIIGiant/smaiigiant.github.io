@@ -34,6 +34,13 @@ At Michigan, I have worked on several projects, including the development of [**
 
 I am also a **co-first author** on the upcoming paper [***“Field-Effect Elastocapillary Actuators,”***](./#liquid_mdetal_actuator) which explores novel muscle-like actuators based on field-effect elastocapillary mechanisms.
 
+### **Awards & Honors**
+
+- **First-Year Fellowship**, Robotics Department, University of Michigan.
+- **2026 IES Signing Bonus for Ph.D. Students in Energy**, [U-M Institute for Energy Solutions](https://www.linkedin.com/company/umich-institute-for-energy-solutions/).
+- **Audience Choice Award** in Photography and **Image of Distinction**, 2026 [IEEE RoboSoft Art Gallery](https://www.linkedin.com/in/ieeerobosoft/) in Kanazawa, Japan, for *Spark of Color*, created with Manvi S. Saxena, Jason Brown, Dan Newman, and Cameron Aubin. The artwork will also appear on the cover of an upcoming issue of *Soft Robotics*.
+- **Best Student Paper Finalist** and **Best Paper Award in Benchmarking and Reproducibility**, 2025 [IEEE International Conference on Soft Robotics (RoboSoft)](https://ieeexplore.ieee.org/document/11020908), for [*Release Chamber Enables Suction Cup to Delaminate and Harvest Fluid*](./#release-chamber).
+
 <p class="bio-note">
   <strong>
     <a href="https://bulletin.engin.umich.edu/courses/eecs/" target="_blank">
