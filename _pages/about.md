@@ -132,7 +132,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
       border:2px solid #000;
       border-radius:8px;
       background-color:#000;">
-    <source src="https://d3qrnjr4uo2u6l.cloudfront.net/videos/market.mp4" type="video/mp4">
+    <source src="/assets/video/EEE_Marketing_Final.mp4" type="video/mp4">
   </video>
 
   <!-- Unmute button -->
