@@ -24,6 +24,8 @@ latest_posts:
   limit: 3
 ---
 
+### **耿(Geng) 艺豪(Yihao)**
+
 ### **Biography**
 
 I recently graduated with a **B.S.E in Computer Science** from the **University of Michigan**, where I now a **Ph.D. Student** at the **Zoetic Robotics Lab**, supervised by **Dr. Cameron Aubin**. 
