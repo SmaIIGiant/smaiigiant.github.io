@@ -65,9 +65,11 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ####  <a id="spark-of-color"></a>**Spark of Color**
 
-##### **RoboSoft 2026**
+##### Manvi Saxena, **Yihao Geng**, Jason Brown, Daniel Newman, Cameron Aubin
+###### **RoboSoft 2026**
 ###### **Audience Choice Award in Photography**
 ###### **Image of Distinction**
+
 
 <img src="/assets/img/aubin-soft-wate.webp"
      alt="Spark of Color soft robotics artwork"
