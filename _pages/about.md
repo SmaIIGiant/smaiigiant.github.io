@@ -118,7 +118,7 @@ I am also a **co-first author** on the upcoming paper [***“Field-Effect Elasto
 
 ##### A. Wertz, **Y. Geng**, A. Shariff, J. Bostic, M. Capitani, M. Humbert, E. Ku, J. Lee, C. A. Aubin
 
-##### **Publication in Preparation, Tentative Authorship**
+##### **Publication in Preparation**
 
 
 
