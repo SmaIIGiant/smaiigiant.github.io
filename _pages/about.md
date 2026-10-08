@@ -1,6 +1,7 @@
 ---
 layout: about
-title: Geng Yihao
+title: Yihao Geng
+display_title: "耿(Geng) 艺豪(Yihao)"
 permalink: /
 subtitle: Ph.D. Student, <a href='https://www.zoeticrobotics.com/'>Zoetic Robotics Lab</a> · <a href='https://umich.edu/'>University of Michigan</a>  
 Email: <a href="mailto:yhgeng@umich.edu">yhgeng@umich.edu</a>
@@ -23,8 +24,6 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-### **耿(Geng) 艺豪(Yihao)**
 
 ### **Biography**
 
